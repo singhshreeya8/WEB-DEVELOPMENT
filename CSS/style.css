@@ -1,0 +1,9 @@
+/*universal selector*/
+*{
+    margin: 10px;
+    background-color: aqua;
+}
+/*class selector*/
+.para{
+    color: brown;
+}
